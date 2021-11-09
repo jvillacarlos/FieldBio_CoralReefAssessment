@@ -1,0 +1,273 @@
+﻿eventID,measurementID,measurementType,measurementValue,measurementUnit,measurementDeterminedDate,measurementDeterminedBy,measurementMethod,measurementRemarks
+LiloanMPA:S01:2015-03:physicochemical,LiloanMPA:S01:2015-03:physicochemical:DO,Dissolved Oxygen,6.7,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (Winkler) method,
+LiloanMPA:S02:2015-03:physicochemical,LiloanMPA:S02:2015-03:physicochemical:DO,Dissolved Oxygen,7,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (Winkler) method,
+LiloanMPA:S03:2015-03:physicochemical,LiloanMPA:S03:2015-03:physicochemical:DO,Dissolved Oxygen,6.5,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (Winkler) method,
+LiloanMPA:S04:2015-03:physicochemical,LiloanMPA:S04:2015-03:physicochemical:DO,Dissolved Oxygen,7.1,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (Winkler) method,
+LiloanMPA:S05:2015-03:physicochemical,LiloanMPA:S05:2015-03:physicochemical:DO,Dissolved Oxygen,6.6,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (Winkler) method,
+LiloanMPA:S06:2015-03:physicochemical,LiloanMPA:S06:2015-03:physicochemical:DO,Dissolved Oxygen,6.6,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (Winkler) method,
+LiloanMPA:S07:2015-03:physicochemical,LiloanMPA:S07:2015-03:physicochemical:DO,Dissolved Oxygen,6.4,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (Winkler) method,
+LiloanMPA:S08:2015-03:physicochemical,LiloanMPA:S08:2015-03:physicochemical:DO,Dissolved Oxygen,6.3,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (Winkler) method,
+LiloanMPA:S09:2015-03:physicochemical,LiloanMPA:S09:2015-03:physicochemical:DO,Dissolved Oxygen,6.5,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (Winkler) method,
+LiloanMPA:S10:2015-03:physicochemical,LiloanMPA:S10:2015-03:physicochemical:DO,Dissolved Oxygen,7.8,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (Winkler) method,
+LiloanMPA:S11:2016-03:physicochemical,LiloanMPA:S11:2016-03:physicochemical:DO,Dissolved Oxygen,6.8,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (Winkler) method,
+LiloanMPA:S12:2016-03:physicochemical,LiloanMPA:S12:2016-03:physicochemical:DO,Dissolved Oxygen,6.7,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (Winkler) method,
+LiloanMPA:S13:2016-03:physicochemical,LiloanMPA:S13:2016-03:physicochemical:DO,Dissolved Oxygen,6.4,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (Winkler) method,
+LiloanMPA:S14:2016-03:physicochemical,LiloanMPA:S14:2016-03:physicochemical:DO,Dissolved Oxygen,6.8,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (Winkler) method,
+LiloanMPA:S15:2016-03:physicochemical,LiloanMPA:S15:2016-03:physicochemical:DO,Dissolved Oxygen,6.4,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (Winkler) method,
+LiloanMPA:S16:2016-03:physicochemical,LiloanMPA:S16:2016-03:physicochemical:DO,Dissolved Oxygen,6.1,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (Winkler) method,
+LiloanMPA:S17:2016-03:physicochemical,LiloanMPA:S17:2016-03:physicochemical:DO,Dissolved Oxygen,6.9,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (Winkler) method,
+LiloanMPA:S18:2016-03:physicochemical,LiloanMPA:S18:2016-03:physicochemical:DO,Dissolved Oxygen,7.1,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (Winkler) method,
+LiloanMPA:S19:2016-03:physicochemical,LiloanMPA:S19:2016-03:physicochemical:DO,Dissolved Oxygen,6.9,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (Winkler) method,
+LiloanMPA:S20:2016-03:physicochemical,LiloanMPA:S20:2016-03:physicochemical:DO,Dissolved Oxygen,6.8,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (Winkler) method,
+LiloanMPA:S01:2015-03:physicochemical,LiloanMPA:S01:2015-03:physicochemical:BOD,Biochemical Oxygen Demand,< 2,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (dilution) technique,detection limit 2 mg/L
+LiloanMPA:S02:2015-03:physicochemical,LiloanMPA:S02:2015-03:physicochemical:BOD,Biochemical Oxygen Demand,< 2,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (dilution) technique,detection limit 2 mg/L
+LiloanMPA:S03:2015-03:physicochemical,LiloanMPA:S03:2015-03:physicochemical:BOD,Biochemical Oxygen Demand,< 2,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (dilution) technique,detection limit 2 mg/L
+LiloanMPA:S04:2015-03:physicochemical,LiloanMPA:S04:2015-03:physicochemical:BOD,Biochemical Oxygen Demand,< 2,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (dilution) technique,detection limit 2 mg/L
+LiloanMPA:S05:2015-03:physicochemical,LiloanMPA:S05:2015-03:physicochemical:BOD,Biochemical Oxygen Demand,< 2,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (dilution) technique,detection limit 2 mg/L
+LiloanMPA:S06:2015-03:physicochemical,LiloanMPA:S06:2015-03:physicochemical:BOD,Biochemical Oxygen Demand,< 2,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (dilution) technique,detection limit 2 mg/L
+LiloanMPA:S07:2015-03:physicochemical,LiloanMPA:S07:2015-03:physicochemical:BOD,Biochemical Oxygen Demand,< 2,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (dilution) technique,detection limit 2 mg/L
+LiloanMPA:S08:2015-03:physicochemical,LiloanMPA:S08:2015-03:physicochemical:BOD,Biochemical Oxygen Demand,< 2,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (dilution) technique,detection limit 2 mg/L
+LiloanMPA:S09:2015-03:physicochemical,LiloanMPA:S09:2015-03:physicochemical:BOD,Biochemical Oxygen Demand,< 2,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (dilution) technique,detection limit 2 mg/L
+LiloanMPA:S10:2015-03:physicochemical,LiloanMPA:S10:2015-03:physicochemical:BOD,Biochemical Oxygen Demand,< 2,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (dilution) technique,detection limit 2 mg/L
+LiloanMPA:S11:2016-03:physicochemical,LiloanMPA:S11:2016-03:physicochemical:BOD,Biochemical Oxygen Demand,< 2,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (dilution) technique,detection limit 2 mg/L
+LiloanMPA:S12:2016-03:physicochemical,LiloanMPA:S12:2016-03:physicochemical:BOD,Biochemical Oxygen Demand,< 2,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (dilution) technique,detection limit 2 mg/L
+LiloanMPA:S13:2016-03:physicochemical,LiloanMPA:S13:2016-03:physicochemical:BOD,Biochemical Oxygen Demand,< 2,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (dilution) technique,detection limit 2 mg/L
+LiloanMPA:S14:2016-03:physicochemical,LiloanMPA:S14:2016-03:physicochemical:BOD,Biochemical Oxygen Demand,< 2,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (dilution) technique,detection limit 2 mg/L
+LiloanMPA:S15:2016-03:physicochemical,LiloanMPA:S15:2016-03:physicochemical:BOD,Biochemical Oxygen Demand,3.1,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (dilution) technique,detection limit 2 mg/L
+LiloanMPA:S16:2016-03:physicochemical,LiloanMPA:S16:2016-03:physicochemical:BOD,Biochemical Oxygen Demand,3.4,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (dilution) technique,detection limit 2 mg/L
+LiloanMPA:S17:2016-03:physicochemical,LiloanMPA:S17:2016-03:physicochemical:BOD,Biochemical Oxygen Demand,5.6,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (dilution) technique,detection limit 2 mg/L
+LiloanMPA:S18:2016-03:physicochemical,LiloanMPA:S18:2016-03:physicochemical:BOD,Biochemical Oxygen Demand,< 2,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (dilution) technique,detection limit 2 mg/L
+LiloanMPA:S19:2016-03:physicochemical,LiloanMPA:S19:2016-03:physicochemical:BOD,Biochemical Oxygen Demand,< 2,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (dilution) technique,detection limit 2 mg/L
+LiloanMPA:S20:2016-03:physicochemical,LiloanMPA:S20:2016-03:physicochemical:BOD,Biochemical Oxygen Demand,< 2,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,azide modification (dilution) technique,detection limit 2 mg/L
+LiloanMPA:S01:2015-03:physicochemical,LiloanMPA:S01:2015-03:physicochemical:TSS,Total Suspended Solid,1.1,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,gravimetric,detection limit 1 mg/L
+LiloanMPA:S02:2015-03:physicochemical,LiloanMPA:S02:2015-03:physicochemical:TSS,Total Suspended Solid,< 1,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,gravimetric,detection limit 1 mg/L
+LiloanMPA:S03:2015-03:physicochemical,LiloanMPA:S03:2015-03:physicochemical:TSS,Total Suspended Solid,1.8,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,gravimetric,detection limit 1 mg/L
+LiloanMPA:S04:2015-03:physicochemical,LiloanMPA:S04:2015-03:physicochemical:TSS,Total Suspended Solid,3.2,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,gravimetric,detection limit 1 mg/L
+LiloanMPA:S05:2015-03:physicochemical,LiloanMPA:S05:2015-03:physicochemical:TSS,Total Suspended Solid,< 1,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,gravimetric,detection limit 1 mg/L
+LiloanMPA:S06:2015-03:physicochemical,LiloanMPA:S06:2015-03:physicochemical:TSS,Total Suspended Solid,2.2,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,gravimetric,detection limit 1 mg/L
+LiloanMPA:S07:2015-03:physicochemical,LiloanMPA:S07:2015-03:physicochemical:TSS,Total Suspended Solid,< 1,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,gravimetric,detection limit 1 mg/L
+LiloanMPA:S08:2015-03:physicochemical,LiloanMPA:S08:2015-03:physicochemical:TSS,Total Suspended Solid,< 1,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,gravimetric,detection limit 1 mg/L
+LiloanMPA:S09:2015-03:physicochemical,LiloanMPA:S09:2015-03:physicochemical:TSS,Total Suspended Solid,< 1,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,gravimetric,detection limit 1 mg/L
+LiloanMPA:S10:2015-03:physicochemical,LiloanMPA:S10:2015-03:physicochemical:TSS,Total Suspended Solid,< 1,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,gravimetric,detection limit 1 mg/L
+LiloanMPA:S11:2016-03:physicochemical,LiloanMPA:S11:2016-03:physicochemical:TSS,Total Suspended Solid,< 1,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,gravimetric,detection limit 1 mg/L
+LiloanMPA:S12:2016-03:physicochemical,LiloanMPA:S12:2016-03:physicochemical:TSS,Total Suspended Solid,1.4,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,gravimetric,detection limit 1 mg/L
+LiloanMPA:S13:2016-03:physicochemical,LiloanMPA:S13:2016-03:physicochemical:TSS,Total Suspended Solid,1.5,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,gravimetric,detection limit 1 mg/L
+LiloanMPA:S14:2016-03:physicochemical,LiloanMPA:S14:2016-03:physicochemical:TSS,Total Suspended Solid,1.6,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,gravimetric,detection limit 1 mg/L
+LiloanMPA:S15:2016-03:physicochemical,LiloanMPA:S15:2016-03:physicochemical:TSS,Total Suspended Solid,1.5,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,gravimetric,detection limit 1 mg/L
+LiloanMPA:S16:2016-03:physicochemical,LiloanMPA:S16:2016-03:physicochemical:TSS,Total Suspended Solid,2,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,gravimetric,detection limit 1 mg/L
+LiloanMPA:S17:2016-03:physicochemical,LiloanMPA:S17:2016-03:physicochemical:TSS,Total Suspended Solid,3,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,gravimetric,detection limit 1 mg/L
+LiloanMPA:S18:2016-03:physicochemical,LiloanMPA:S18:2016-03:physicochemical:TSS,Total Suspended Solid,1.2,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,gravimetric,detection limit 1 mg/L
+LiloanMPA:S19:2016-03:physicochemical,LiloanMPA:S19:2016-03:physicochemical:TSS,Total Suspended Solid,1.3,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,gravimetric,detection limit 1 mg/L
+LiloanMPA:S20:2016-03:physicochemical,LiloanMPA:S20:2016-03:physicochemical:TSS,Total Suspended Solid,1.2,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,gravimetric,detection limit 1 mg/L
+LiloanMPA:S01:2015-03:physicochemical,LiloanMPA:S01:2015-03:physicochemical:P,Total Phosphates,< 0.01,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,chromotropic-colorimetric,detection limit 0.01 mg/L
+LiloanMPA:S02:2015-03:physicochemical,LiloanMPA:S02:2015-03:physicochemical:P,Total Phosphates,< 0.01,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,chromotropic-colorimetric,detection limit 0.01 mg/L
+LiloanMPA:S03:2015-03:physicochemical,LiloanMPA:S03:2015-03:physicochemical:P,Total Phosphates,< 0.01,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,chromotropic-colorimetric,detection limit 0.01 mg/L
+LiloanMPA:S04:2015-03:physicochemical,LiloanMPA:S04:2015-03:physicochemical:P,Total Phosphates,< 0.01,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,chromotropic-colorimetric,detection limit 0.01 mg/L
+LiloanMPA:S05:2015-03:physicochemical,LiloanMPA:S05:2015-03:physicochemical:P,Total Phosphates,< 0.01,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,chromotropic-colorimetric,detection limit 0.01 mg/L
+LiloanMPA:S06:2015-03:physicochemical,LiloanMPA:S06:2015-03:physicochemical:P,Total Phosphates,< 0.01,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,chromotropic-colorimetric,detection limit 0.01 mg/L
+LiloanMPA:S07:2015-03:physicochemical,LiloanMPA:S07:2015-03:physicochemical:P,Total Phosphates,< 0.01,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,chromotropic-colorimetric,detection limit 0.01 mg/L
+LiloanMPA:S08:2015-03:physicochemical,LiloanMPA:S08:2015-03:physicochemical:P,Total Phosphates,< 0.01,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,chromotropic-colorimetric,detection limit 0.01 mg/L
+LiloanMPA:S09:2015-03:physicochemical,LiloanMPA:S09:2015-03:physicochemical:P,Total Phosphates,0.02,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,chromotropic-colorimetric,detection limit 0.01 mg/L
+LiloanMPA:S10:2015-03:physicochemical,LiloanMPA:S10:2015-03:physicochemical:P,Total Phosphates,< 0.01,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,chromotropic-colorimetric,detection limit 0.01 mg/L
+LiloanMPA:S11:2016-03:physicochemical,LiloanMPA:S11:2016-03:physicochemical:P,Total Phosphates,< 0.01,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,chromotropic-colorimetric,detection limit 0.01 mg/L
+LiloanMPA:S12:2016-03:physicochemical,LiloanMPA:S12:2016-03:physicochemical:P,Total Phosphates,0.02,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,chromotropic-colorimetric,detection limit 0.01 mg/L
+LiloanMPA:S13:2016-03:physicochemical,LiloanMPA:S13:2016-03:physicochemical:P,Total Phosphates,< 0.01,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,chromotropic-colorimetric,detection limit 0.01 mg/L
+LiloanMPA:S14:2016-03:physicochemical,LiloanMPA:S14:2016-03:physicochemical:P,Total Phosphates,< 0.01,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,chromotropic-colorimetric,detection limit 0.01 mg/L
+LiloanMPA:S15:2016-03:physicochemical,LiloanMPA:S15:2016-03:physicochemical:P,Total Phosphates,< 0.01,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,chromotropic-colorimetric,detection limit 0.01 mg/L
+LiloanMPA:S16:2016-03:physicochemical,LiloanMPA:S16:2016-03:physicochemical:P,Total Phosphates,< 0.01,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,chromotropic-colorimetric,detection limit 0.01 mg/L
+LiloanMPA:S17:2016-03:physicochemical,LiloanMPA:S17:2016-03:physicochemical:P,Total Phosphates,0.04,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,chromotropic-colorimetric,detection limit 0.01 mg/L
+LiloanMPA:S18:2016-03:physicochemical,LiloanMPA:S18:2016-03:physicochemical:P,Total Phosphates,< 0.01,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,chromotropic-colorimetric,detection limit 0.01 mg/L
+LiloanMPA:S19:2016-03:physicochemical,LiloanMPA:S19:2016-03:physicochemical:P,Total Phosphates,< 0.01,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,chromotropic-colorimetric,detection limit 0.01 mg/L
+LiloanMPA:S20:2016-03:physicochemical,LiloanMPA:S20:2016-03:physicochemical:P,Total Phosphates,< 0.01,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,chromotropic-colorimetric,detection limit 0.01 mg/L
+LiloanMPA:S01:2015-03:physicochemical,LiloanMPA:S01:2015-03:physicochemical:N,Nitrates,< 0.01,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,stannous chloride reduction,detection limit 0.01 mg/L
+LiloanMPA:S02:2015-03:physicochemical,LiloanMPA:S02:2015-03:physicochemical:N,Nitrates,< 0.01,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,stannous chloride reduction,detection limit 0.01 mg/L
+LiloanMPA:S03:2015-03:physicochemical,LiloanMPA:S03:2015-03:physicochemical:N,Nitrates,< 0.01,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,stannous chloride reduction,detection limit 0.01 mg/L
+LiloanMPA:S04:2015-03:physicochemical,LiloanMPA:S04:2015-03:physicochemical:N,Nitrates,< 0.01,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,stannous chloride reduction,detection limit 0.01 mg/L
+LiloanMPA:S05:2015-03:physicochemical,LiloanMPA:S05:2015-03:physicochemical:N,Nitrates,0.23,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,stannous chloride reduction,detection limit 0.01 mg/L
+LiloanMPA:S06:2015-03:physicochemical,LiloanMPA:S06:2015-03:physicochemical:N,Nitrates,< 0.01,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,stannous chloride reduction,detection limit 0.01 mg/L
+LiloanMPA:S07:2015-03:physicochemical,LiloanMPA:S07:2015-03:physicochemical:N,Nitrates,< 0.01,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,stannous chloride reduction,detection limit 0.01 mg/L
+LiloanMPA:S08:2015-03:physicochemical,LiloanMPA:S08:2015-03:physicochemical:N,Nitrates,< 0.01,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,stannous chloride reduction,detection limit 0.01 mg/L
+LiloanMPA:S09:2015-03:physicochemical,LiloanMPA:S09:2015-03:physicochemical:N,Nitrates,< 0.01,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,stannous chloride reduction,detection limit 0.01 mg/L
+LiloanMPA:S10:2015-03:physicochemical,LiloanMPA:S10:2015-03:physicochemical:N,Nitrates,< 0.01,mg/L,2015-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,stannous chloride reduction,detection limit 0.01 mg/L
+LiloanMPA:S11:2016-03:physicochemical,LiloanMPA:S11:2016-03:physicochemical:N,Nitrates,< 0.01,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,stannous chloride reduction,detection limit 0.01 mg/L
+LiloanMPA:S12:2016-03:physicochemical,LiloanMPA:S12:2016-03:physicochemical:N,Nitrates,< 0.01,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,stannous chloride reduction,detection limit 0.01 mg/L
+LiloanMPA:S13:2016-03:physicochemical,LiloanMPA:S13:2016-03:physicochemical:N,Nitrates,< 0.01,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,stannous chloride reduction,detection limit 0.01 mg/L
+LiloanMPA:S14:2016-03:physicochemical,LiloanMPA:S14:2016-03:physicochemical:N,Nitrates,< 0.01,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,stannous chloride reduction,detection limit 0.01 mg/L
+LiloanMPA:S15:2016-03:physicochemical,LiloanMPA:S15:2016-03:physicochemical:N,Nitrates,< 0.01,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,stannous chloride reduction,detection limit 0.01 mg/L
+LiloanMPA:S16:2016-03:physicochemical,LiloanMPA:S16:2016-03:physicochemical:N,Nitrates,< 0.01,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,stannous chloride reduction,detection limit 0.01 mg/L
+LiloanMPA:S17:2016-03:physicochemical,LiloanMPA:S17:2016-03:physicochemical:N,Nitrates,< 0.01,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,stannous chloride reduction,detection limit 0.01 mg/L
+LiloanMPA:S18:2016-03:physicochemical,LiloanMPA:S18:2016-03:physicochemical:N,Nitrates,< 0.01,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,stannous chloride reduction,detection limit 0.01 mg/L
+LiloanMPA:S19:2016-03:physicochemical,LiloanMPA:S19:2016-03:physicochemical:N,Nitrates,< 0.01,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,stannous chloride reduction,detection limit 0.01 mg/L
+LiloanMPA:S20:2016-03:physicochemical,LiloanMPA:S20:2016-03:physicochemical:N,Nitrates,< 0.01,mg/L,2016-03,Fleurdeliz Maglangit | Brisneve Edullantes | Eukene Bensig | FAST Laboratories,stannous chloride reduction,detection limit 0.01 mg/L
+LiloanMPA:S01:2015-03:physicochemical,LiloanMPA:S01:2015-03:physicochemical:pH,pH,8.32,no unit,2015-03,Angelito Ortiz |Lorraine Louise Vicentuan,pH meter,
+LiloanMPA:S02:2015-03:physicochemical,LiloanMPA:S02:2015-03:physicochemical:pH,pH,8.5,no unit,2015-03,Angelito Ortiz |Lorraine Louise Vicentuan,pH meter,
+LiloanMPA:S03:2015-03:physicochemical,LiloanMPA:S03:2015-03:physicochemical:pH,pH,8.51,no unit,2015-03,Angelito Ortiz |Lorraine Louise Vicentuan,pH meter,
+LiloanMPA:S04:2015-03:physicochemical,LiloanMPA:S04:2015-03:physicochemical:pH,pH,8.54,no unit,2015-03,Angelito Ortiz,pH meter,
+LiloanMPA:S05:2015-03:physicochemical,LiloanMPA:S05:2015-03:physicochemical:pH,pH,8.5,no unit,2015-03,Angelito Ortiz,pH meter,
+LiloanMPA:S06:2015-03:physicochemical,LiloanMPA:S06:2015-03:physicochemical:pH,pH,8.51,no unit,2015-03,Angelito Ortiz,pH meter,
+LiloanMPA:S07:2015-03:physicochemical,LiloanMPA:S07:2015-03:physicochemical:pH,pH,8.53,no unit,2015-03,Angelito Ortiz |Lorraine Louise Vicentuan,pH meter,
+LiloanMPA:S08:2015-03:physicochemical,LiloanMPA:S08:2015-03:physicochemical:pH,pH,8.54,no unit,2015-03,Angelito Ortiz |Lorraine Louise Vicentuan,pH meter,
+LiloanMPA:S09:2015-03:physicochemical,LiloanMPA:S09:2015-03:physicochemical:pH,pH,8.49,no unit,2015-03,Angelito Ortiz |Lorraine Louise Vicentuan,pH meter,
+LiloanMPA:S10:2015-03:physicochemical,LiloanMPA:S10:2015-03:physicochemical:pH,pH,8.53,no unit,2015-03,Joana Mie Casibo,pH meter,
+LiloanMPA:S11:2016-03:physicochemical,LiloanMPA:S11:2016-03:physicochemical:pH,pH,8.28,no unit,2016-03,Joana Mie Casibo,pH meter,
+LiloanMPA:S12:2016-03:physicochemical,LiloanMPA:S12:2016-03:physicochemical:pH,pH,8.22,no unit,2016-03,Joana Mie Casibo,pH meter,
+LiloanMPA:S13:2016-03:physicochemical,LiloanMPA:S13:2016-03:physicochemical:pH,pH,8.2,no unit,2016-03,Joana Mie Casibo,pH meter,
+LiloanMPA:S14:2016-03:physicochemical,LiloanMPA:S14:2016-03:physicochemical:pH,pH,8.3,no unit,2016-03,Joana Mie Casibo,pH meter,
+LiloanMPA:S15:2016-03:physicochemical,LiloanMPA:S15:2016-03:physicochemical:pH,pH,8.22,no unit,2016-03,Joana Mie Casibo,pH meter,
+LiloanMPA:S16:2016-03:physicochemical,LiloanMPA:S16:2016-03:physicochemical:pH,pH,8.2,no unit,2016-03,Joana Mie Casibo,pH meter,
+LiloanMPA:S17:2016-03:physicochemical,LiloanMPA:S17:2016-03:physicochemical:pH,pH,8.25,no unit,2016-03,Joana Mie Casibo,pH meter,
+LiloanMPA:S18:2016-03:physicochemical,LiloanMPA:S18:2016-03:physicochemical:pH,pH,8.26,no unit,2016-03,Joana Mie Casibo,pH meter,
+LiloanMPA:S19:2016-03:physicochemical,LiloanMPA:S19:2016-03:physicochemical:pH,pH,8.28,no unit,2016-03,Joana Mie Casibo,pH meter,
+LiloanMPA:S20:2016-03:physicochemical,LiloanMPA:S20:2016-03:physicochemical:pH,pH,8.28,no unit,2016-03,Joana Mie Casibo,pH meter,
+LiloanMPA:S01:2015-03:physicochemical,LiloanMPA:S01:2015-03:physicochemical:temperature,Temperature,29,deg C,2015-03,Angelito Ortiz |Lorraine Louise Vicentuan,thermometer,
+LiloanMPA:S02:2015-03:physicochemical,LiloanMPA:S02:2015-03:physicochemical:temperature,Temperature,29,deg C,2015-03,Angelito Ortiz |Lorraine Louise Vicentuan,thermometer,
+LiloanMPA:S03:2015-03:physicochemical,LiloanMPA:S03:2015-03:physicochemical:temperature,Temperature,29,deg C,2015-03,Angelito Ortiz |Lorraine Louise Vicentuan,thermometer,
+LiloanMPA:S04:2015-03:physicochemical,LiloanMPA:S04:2015-03:physicochemical:temperature,Temperature,29,deg C,2015-03,Angelito Ortiz,thermometer,
+LiloanMPA:S05:2015-03:physicochemical,LiloanMPA:S05:2015-03:physicochemical:temperature,Temperature,29,deg C,2015-03,Angelito Ortiz,thermometer,
+LiloanMPA:S06:2015-03:physicochemical,LiloanMPA:S06:2015-03:physicochemical:temperature,Temperature,29,deg C,2015-03,Angelito Ortiz,thermometer,
+LiloanMPA:S07:2015-03:physicochemical,LiloanMPA:S07:2015-03:physicochemical:temperature,Temperature,29,deg C,2015-03,Angelito Ortiz |Lorraine Louise Vicentuan,thermometer,
+LiloanMPA:S08:2015-03:physicochemical,LiloanMPA:S08:2015-03:physicochemical:temperature,Temperature,29,deg C,2015-03,Angelito Ortiz |Lorraine Louise Vicentuan,thermometer,
+LiloanMPA:S09:2015-03:physicochemical,LiloanMPA:S09:2015-03:physicochemical:temperature,Temperature,29,deg C,2015-03,Angelito Ortiz |Lorraine Louise Vicentuan,thermometer,
+LiloanMPA:S10:2015-03:physicochemical,LiloanMPA:S10:2015-03:physicochemical:temperature,Temperature,29,deg C,2015-03,Joana Mie Casibo,thermometer,
+LiloanMPA:S11:2016-03:physicochemical,LiloanMPA:S11:2016-03:physicochemical:temperature,Temperature,30,deg C,2016-03,Joana Mie Casibo,thermometer,
+LiloanMPA:S12:2016-03:physicochemical,LiloanMPA:S12:2016-03:physicochemical:temperature,Temperature,30,deg C,2016-03,Joana Mie Casibo,thermometer,
+LiloanMPA:S13:2016-03:physicochemical,LiloanMPA:S13:2016-03:physicochemical:temperature,Temperature,30,deg C,2016-03,Joana Mie Casibo,thermometer,
+LiloanMPA:S14:2016-03:physicochemical,LiloanMPA:S14:2016-03:physicochemical:temperature,Temperature,30,deg C,2016-03,Joana Mie Casibo,thermometer,
+LiloanMPA:S15:2016-03:physicochemical,LiloanMPA:S15:2016-03:physicochemical:temperature,Temperature,30,deg C,2016-03,Joana Mie Casibo,thermometer,
+LiloanMPA:S16:2016-03:physicochemical,LiloanMPA:S16:2016-03:physicochemical:temperature,Temperature,30,deg C,2016-03,Joana Mie Casibo,thermometer,
+LiloanMPA:S17:2016-03:physicochemical,LiloanMPA:S17:2016-03:physicochemical:temperature,Temperature,30,deg C,2016-03,Joana Mie Casibo,thermometer,
+LiloanMPA:S18:2016-03:physicochemical,LiloanMPA:S18:2016-03:physicochemical:temperature,Temperature,30,deg C,2016-03,Joana Mie Casibo,thermometer,
+LiloanMPA:S19:2016-03:physicochemical,LiloanMPA:S19:2016-03:physicochemical:temperature,Temperature,30,deg C,2016-03,Joana Mie Casibo,thermometer,
+LiloanMPA:S20:2016-03:physicochemical,LiloanMPA:S20:2016-03:physicochemical:temperature,Temperature,31,deg C,2016-03,Joana Mie Casibo,thermometer,
+LiloanMPA:S01:2015-03:physicochemical,LiloanMPA:S01:2015-03:physicochemical:salinity,Salinity,35,ppm,2015-03,Angelito Ortiz |Lorraine Louise Vicentuan,refractometer,
+LiloanMPA:S02:2015-03:physicochemical,LiloanMPA:S02:2015-03:physicochemical:salinity,Salinity,40,ppm,2015-03,Angelito Ortiz |Lorraine Louise Vicentuan,refractometer,
+LiloanMPA:S03:2015-03:physicochemical,LiloanMPA:S03:2015-03:physicochemical:salinity,Salinity,37,ppm,2015-03,Angelito Ortiz |Lorraine Louise Vicentuan,refractometer,
+LiloanMPA:S04:2015-03:physicochemical,LiloanMPA:S04:2015-03:physicochemical:salinity,Salinity,37,ppm,2015-03,Angelito Ortiz,refractometer,
+LiloanMPA:S05:2015-03:physicochemical,LiloanMPA:S05:2015-03:physicochemical:salinity,Salinity,35,ppm,2015-03,Angelito Ortiz,refractometer,
+LiloanMPA:S06:2015-03:physicochemical,LiloanMPA:S06:2015-03:physicochemical:salinity,Salinity,35,ppm,2015-03,Angelito Ortiz,refractometer,
+LiloanMPA:S07:2015-03:physicochemical,LiloanMPA:S07:2015-03:physicochemical:salinity,Salinity,35,ppm,2015-03,Angelito Ortiz |Lorraine Louise Vicentuan,refractometer,
+LiloanMPA:S08:2015-03:physicochemical,LiloanMPA:S08:2015-03:physicochemical:salinity,Salinity,39,ppm,2015-03,Angelito Ortiz |Lorraine Louise Vicentuan,refractometer,
+LiloanMPA:S09:2015-03:physicochemical,LiloanMPA:S09:2015-03:physicochemical:salinity,Salinity,35,ppm,2015-03,Angelito Ortiz |Lorraine Louise Vicentuan,refractometer,
+LiloanMPA:S10:2015-03:physicochemical,LiloanMPA:S10:2015-03:physicochemical:salinity,Salinity,36,ppm,2015-03,Angelito Ortiz,refractometer,
+LiloanMPA:S11:2016-03:physicochemical,LiloanMPA:S11:2016-03:physicochemical:salinity,Salinity,35,ppm,2016-03,Joana Mie Casibo,refractometer,
+LiloanMPA:S12:2016-03:physicochemical,LiloanMPA:S12:2016-03:physicochemical:salinity,Salinity,35,ppm,2016-03,Joana Mie Casibo,refractometer,
+LiloanMPA:S13:2016-03:physicochemical,LiloanMPA:S13:2016-03:physicochemical:salinity,Salinity,35,ppm,2016-03,Joana Mie Casibo,refractometer,
+LiloanMPA:S14:2016-03:physicochemical,LiloanMPA:S14:2016-03:physicochemical:salinity,Salinity,36,ppm,2016-03,Joana Mie Casibo,refractometer,
+LiloanMPA:S15:2016-03:physicochemical,LiloanMPA:S15:2016-03:physicochemical:salinity,Salinity,39,ppm,2016-03,Joana Mie Casibo,refractometer,
+LiloanMPA:S16:2016-03:physicochemical,LiloanMPA:S16:2016-03:physicochemical:salinity,Salinity,35,ppm,2016-03,Joana Mie Casibo,refractometer,
+LiloanMPA:S17:2016-03:physicochemical,LiloanMPA:S17:2016-03:physicochemical:salinity,Salinity,36,ppm,2016-03,Joana Mie Casibo,refractometer,
+LiloanMPA:S18:2016-03:physicochemical,LiloanMPA:S18:2016-03:physicochemical:salinity,Salinity,40,ppm,2016-03,Joana Mie Casibo,refractometer,
+LiloanMPA:S19:2016-03:physicochemical,LiloanMPA:S19:2016-03:physicochemical:salinity,Salinity,39,ppm,2016-03,Joana Mie Casibo,refractometer,
+LiloanMPA:S20:2016-03:physicochemical,LiloanMPA:S20:2016-03:physicochemical:salinity,Salinity,40,ppm,2016-03,Joana Mie Casibo,refractometer,
+LiloanMPA:S01:2015-03:physicochemical,LiloanMPA:S01:2015-03:physicochemical:chla,Chlorophyll a,7.53,ug/L,2015-03,Brisneve Edullantes,spectrophotometric determination,
+LiloanMPA:S02:2015-03:physicochemical,LiloanMPA:S02:2015-03:physicochemical:chla,Chlorophyll a,4.79,ug/L,2015-03,Brisneve Edullantes,spectrophotometric determination,
+LiloanMPA:S03:2015-03:physicochemical,LiloanMPA:S03:2015-03:physicochemical:chla,Chlorophyll a,3.08,ug/L,2015-03,Brisneve Edullantes,spectrophotometric determination,
+LiloanMPA:S04:2015-03:physicochemical,LiloanMPA:S04:2015-03:physicochemical:chla,Chlorophyll a,5.35,ug/L,2015-03,Brisneve Edullantes,spectrophotometric determination,
+LiloanMPA:S05:2015-03:physicochemical,LiloanMPA:S05:2015-03:physicochemical:chla,Chlorophyll a,3,ug/L,2015-03,Brisneve Edullantes,spectrophotometric determination,
+LiloanMPA:S06:2015-03:physicochemical,LiloanMPA:S06:2015-03:physicochemical:chla,Chlorophyll a,5.05,ug/L,2015-03,Brisneve Edullantes,spectrophotometric determination,
+LiloanMPA:S07:2015-03:physicochemical,LiloanMPA:S07:2015-03:physicochemical:chla,Chlorophyll a,7.09,ug/L,2015-03,Brisneve Edullantes,spectrophotometric determination,
+LiloanMPA:S08:2015-03:physicochemical,LiloanMPA:S08:2015-03:physicochemical:chla,Chlorophyll a,3.82,ug/L,2015-03,Brisneve Edullantes,spectrophotometric determination,
+LiloanMPA:S09:2015-03:physicochemical,LiloanMPA:S09:2015-03:physicochemical:chla,Chlorophyll a,9.19,ug/L,2015-03,Brisneve Edullantes,spectrophotometric determination,
+LiloanMPA:S10:2015-03:physicochemical,LiloanMPA:S10:2015-03:physicochemical:chla,Chlorophyll a,6.54,ug/L,2015-03,Brisneve Edullantes,spectrophotometric determination,
+LiloanMPA:S11:2016-03:physicochemical,LiloanMPA:S11:2016-03:physicochemical:chla,Chlorophyll a,14.33,ug/L,2016-03,Brisneve Edullantes | Joana Mie Casibo,spectrophotometric determination,
+LiloanMPA:S12:2016-03:physicochemical,LiloanMPA:S12:2016-03:physicochemical:chla,Chlorophyll a,14.09,ug/L,2016-03,Brisneve Edullantes | Joana Mie Casibo,spectrophotometric determination,
+LiloanMPA:S13:2016-03:physicochemical,LiloanMPA:S13:2016-03:physicochemical:chla,Chlorophyll a,12.91,ug/L,2016-03,Brisneve Edullantes | Joana Mie Casibo,spectrophotometric determination,
+LiloanMPA:S14:2016-03:physicochemical,LiloanMPA:S14:2016-03:physicochemical:chla,Chlorophyll a,15.28,ug/L,2016-03,Brisneve Edullantes | Joana Mie Casibo,spectrophotometric determination,
+LiloanMPA:S15:2016-03:physicochemical,LiloanMPA:S15:2016-03:physicochemical:chla,Chlorophyll a,10.88,ug/L,2016-03,Brisneve Edullantes | Joana Mie Casibo,spectrophotometric determination,
+LiloanMPA:S16:2016-03:physicochemical,LiloanMPA:S16:2016-03:physicochemical:chla,Chlorophyll a,8.3,ug/L,2016-03,Brisneve Edullantes | Joana Mie Casibo,spectrophotometric determination,
+LiloanMPA:S17:2016-03:physicochemical,LiloanMPA:S17:2016-03:physicochemical:chla,Chlorophyll a,13.44,ug/L,2016-03,Brisneve Edullantes | Joana Mie Casibo,spectrophotometric determination,
+LiloanMPA:S18:2016-03:physicochemical,LiloanMPA:S18:2016-03:physicochemical:chla,Chlorophyll a,18.59,ug/L,2016-03,Brisneve Edullantes | Joana Mie Casibo,spectrophotometric determination,
+LiloanMPA:S19:2016-03:physicochemical,LiloanMPA:S19:2016-03:physicochemical:chla,Chlorophyll a,11.23,ug/L,2016-03,Brisneve Edullantes | Joana Mie Casibo,spectrophotometric determination,
+LiloanMPA:S20:2016-03:physicochemical,LiloanMPA:S20:2016-03:physicochemical:chla,Chlorophyll a,15.38,ug/L,2016-03,Brisneve Edullantes | Joana Mie Casibo,spectrophotometric determination,
+LiloanMPA:T01:2016-03:benthic,LiloanMPA:T01:2016-03:benthic:CB,Branching Coral,17.82,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T01:2016-03:benthic,LiloanMPA:T01:2016-03:benthic:CE,Encrusting Coral,4.95,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T01:2016-03:benthic,LiloanMPA:T01:2016-03:benthic:CM,Massive Coral,13.86,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T01:2016-03:benthic,LiloanMPA:T01:2016-03:benthic:CSM,Submassive Coral,43.56,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T01:2016-03:benthic,LiloanMPA:T01:2016-03:benthic:DCA,Dead Coral with Algae,11.88,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T01:2016-03:benthic,LiloanMPA:T01:2016-03:benthic:MA,Macroalgae,1.98,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T01:2016-03:benthic,LiloanMPA:T01:2016-03:benthic:R,Rubble,1.98,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T01:2016-03:benthic,LiloanMPA:T01:2016-03:benthic:SA,Sand,3.96,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T02:2016-03:benthic,LiloanMPA:T02:2016-03:benthic:CB,Branching Coral,13.86,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T02:2016-03:benthic,LiloanMPA:T02:2016-03:benthic:CM,Massive Coral,46.53,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T02:2016-03:benthic,LiloanMPA:T02:2016-03:benthic:CMR,Coral Mushroom,0.99,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T02:2016-03:benthic,LiloanMPA:T02:2016-03:benthic:CSM,Submassive Coral,17.82,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T02:2016-03:benthic,LiloanMPA:T02:2016-03:benthic:DCA,Dead Coral with Algae,10.89,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T02:2016-03:benthic,LiloanMPA:T02:2016-03:benthic:MA,Macroalgae,0.99,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T02:2016-03:benthic,LiloanMPA:T02:2016-03:benthic:R,Rubble,0.99,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T02:2016-03:benthic,LiloanMPA:T02:2016-03:benthic:SA,Sand,6.93,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T02:2016-03:benthic,LiloanMPA:T02:2016-03:benthic:TA,Turf Algae,0.99,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T03:2016-03:benthic,LiloanMPA:T03:2016-03:benthic:ANE,Anemone,0.99,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T03:2016-03:benthic,LiloanMPA:T03:2016-03:benthic:CA,Coralline Algae,0.99,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T03:2016-03:benthic,LiloanMPA:T03:2016-03:benthic:CB,Branching Coral,9.90,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T03:2016-03:benthic,LiloanMPA:T03:2016-03:benthic:CE,Encrusting Coral,1.98,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T03:2016-03:benthic,LiloanMPA:T03:2016-03:benthic:CM,Massive Coral,38.61,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T03:2016-03:benthic,LiloanMPA:T03:2016-03:benthic:CME,Coral Millepora,0.99,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T03:2016-03:benthic,LiloanMPA:T03:2016-03:benthic:CSM,Submassive Coral,15.84,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T03:2016-03:benthic,LiloanMPA:T03:2016-03:benthic:DCA,Dead Coral with Algae,16.83,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T03:2016-03:benthic,LiloanMPA:T03:2016-03:benthic:R,Rubble,2.97,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T03:2016-03:benthic,LiloanMPA:T03:2016-03:benthic:SA,Sand,6.93,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T03:2016-03:benthic,LiloanMPA:T03:2016-03:benthic:SP,Sponge,2.97,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T03:2016-03:benthic,LiloanMPA:T03:2016-03:benthic:TA,Turf Algae,0.99,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T04:2016-03:benthic,LiloanMPA:T04:2016-03:benthic:CB,Branching Coral,6.93,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T04:2016-03:benthic,LiloanMPA:T04:2016-03:benthic:CE,Encrusting Coral,0.99,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T04:2016-03:benthic,LiloanMPA:T04:2016-03:benthic:CMR,Coral Mushroom,0.99,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T04:2016-03:benthic,LiloanMPA:T04:2016-03:benthic:CSM,Submassive Coral,23.76,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T04:2016-03:benthic,LiloanMPA:T04:2016-03:benthic:DC,Dead Coral,0.99,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T04:2016-03:benthic,LiloanMPA:T04:2016-03:benthic:DCA,Dead Coral with Algae,57.43,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T04:2016-03:benthic,LiloanMPA:T04:2016-03:benthic:R,Rubble,2.97,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T04:2016-03:benthic,LiloanMPA:T04:2016-03:benthic:SA,Sand,1.98,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T04:2016-03:benthic,LiloanMPA:T04:2016-03:benthic:SI,Silt,0.99,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T04:2016-03:benthic,LiloanMPA:T04:2016-03:benthic:TA,Turf Algae,0.99,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T04:2016-03:benthic,LiloanMPA:T04:2016-03:benthic:UN,Unknown,1.98,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T05:2016-03:benthic,LiloanMPA:T05:2016-03:benthic:CB,Branching Coral,2.97,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T05:2016-03:benthic,LiloanMPA:T05:2016-03:benthic:CE,Encrusting Coral,0.99,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T05:2016-03:benthic,LiloanMPA:T05:2016-03:benthic:CM,Massive Coral,0.99,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T05:2016-03:benthic,LiloanMPA:T05:2016-03:benthic:CMR,Coral Mushroom,1.98,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T05:2016-03:benthic,LiloanMPA:T05:2016-03:benthic:CSM,Submassive Coral,22.77,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T05:2016-03:benthic,LiloanMPA:T05:2016-03:benthic:DCA,Dead Coral with Algae,41.58,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T05:2016-03:benthic,LiloanMPA:T05:2016-03:benthic:R,Rubble,18.81,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T05:2016-03:benthic,LiloanMPA:T05:2016-03:benthic:SC,Soft Coral,3.96,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T05:2016-03:benthic,LiloanMPA:T05:2016-03:benthic:SI,Silt,4.95,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T05:2016-03:benthic,LiloanMPA:T05:2016-03:benthic:UN,Unknown,0.99,percent,2016-03,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T06:2016-07:benthic,LiloanMPA:T06:2016-07:benthic:CB,Branching Coral,50.50,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T06:2016-07:benthic,LiloanMPA:T06:2016-07:benthic:CM,Massive Coral,0.99,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T06:2016-07:benthic,LiloanMPA:T06:2016-07:benthic:DC,Dead Coral,4.95,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T06:2016-07:benthic,LiloanMPA:T06:2016-07:benthic:R,Rubble,12.87,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T06:2016-07:benthic,LiloanMPA:T06:2016-07:benthic:SA,Sand,30.69,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T07:2016-07:benthic,LiloanMPA:T07:2016-07:benthic:CB,Branching Coral,7.92,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T07:2016-07:benthic,LiloanMPA:T07:2016-07:benthic:CE,Encrusting Coral,4.95,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T07:2016-07:benthic,LiloanMPA:T07:2016-07:benthic:CM,Massive Coral,14.85,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T07:2016-07:benthic,LiloanMPA:T07:2016-07:benthic:CMR,Coral Mushroom,0.99,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T07:2016-07:benthic,LiloanMPA:T07:2016-07:benthic:CSM,Submassive Coral,29.70,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T07:2016-07:benthic,LiloanMPA:T07:2016-07:benthic:DCA,Dead Coral with Algae,3.96,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T07:2016-07:benthic,LiloanMPA:T07:2016-07:benthic:MA,Macroalgae,11.88,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T07:2016-07:benthic,LiloanMPA:T07:2016-07:benthic:R,Rubble,2.97,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T07:2016-07:benthic,LiloanMPA:T07:2016-07:benthic:SA,Sand,14.85,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T07:2016-07:benthic,LiloanMPA:T07:2016-07:benthic:TA,Turf Algae,6.93,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T07:2016-07:benthic,LiloanMPA:T07:2016-07:benthic:ZO,Zooanthids,0.99,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T08:2016-07:benthic,LiloanMPA:T08:2016-07:benthic:ACT,Acropora Table,0.99,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T08:2016-07:benthic,LiloanMPA:T08:2016-07:benthic:CB,Branching Coral,24.75,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T08:2016-07:benthic,LiloanMPA:T08:2016-07:benthic:CM,Massive Coral,8.91,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T08:2016-07:benthic,LiloanMPA:T08:2016-07:benthic:CMR,Coral Mushroom,1.98,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T08:2016-07:benthic,LiloanMPA:T08:2016-07:benthic:CSM,Submassive Coral,4.95,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T08:2016-07:benthic,LiloanMPA:T08:2016-07:benthic:DC,Dead Coral,17.82,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T08:2016-07:benthic,LiloanMPA:T08:2016-07:benthic:DCA,Dead Coral with Algae,4.95,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T08:2016-07:benthic,LiloanMPA:T08:2016-07:benthic:R,Rubble,19.80,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T08:2016-07:benthic,LiloanMPA:T08:2016-07:benthic:SA,Sand,14.85,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T08:2016-07:benthic,LiloanMPA:T08:2016-07:benthic:UN,Unknown,0.99,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T09:2016-07:benthic,LiloanMPA:T09:2016-07:benthic:CB,Branching Coral,29.70,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T09:2016-07:benthic,LiloanMPA:T09:2016-07:benthic:CM,Massive Coral,0.99,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T09:2016-07:benthic,LiloanMPA:T09:2016-07:benthic:CMR,Coral Mushroom,0.99,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T09:2016-07:benthic,LiloanMPA:T09:2016-07:benthic:CSM,Submassive Coral,1.98,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T09:2016-07:benthic,LiloanMPA:T09:2016-07:benthic:DC,Dead Coral,27.72,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T09:2016-07:benthic,LiloanMPA:T09:2016-07:benthic:DCA,Dead Coral with Algae,0.99,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T09:2016-07:benthic,LiloanMPA:T09:2016-07:benthic:R,Rubble,22.77,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T09:2016-07:benthic,LiloanMPA:T09:2016-07:benthic:SA,Sand,2.97,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T09:2016-07:benthic,LiloanMPA:T09:2016-07:benthic:UN,Unknown,11.88,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T10:2016-07:benthic,LiloanMPA:T10:2016-07:benthic:CB,Branching Coral,4.95,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T10:2016-07:benthic,LiloanMPA:T10:2016-07:benthic:CE,Encrusting Coral,1.98,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T10:2016-07:benthic,LiloanMPA:T10:2016-07:benthic:CM,Massive Coral,12.87,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T10:2016-07:benthic,LiloanMPA:T10:2016-07:benthic:DC,Dead Coral,33.66,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T10:2016-07:benthic,LiloanMPA:T10:2016-07:benthic:DCA,Dead Coral with Algae,5.94,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T10:2016-07:benthic,LiloanMPA:T10:2016-07:benthic:R,Rubble,27.72,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
+LiloanMPA:T10:2016-07:benthic,LiloanMPA:T10:2016-07:benthic:SA,Sand,12.87,percent,2016-07,Eukene Bensig | Brisneve Edullantes |  Volunteers,Point Intercept Transect (PIT) method,
